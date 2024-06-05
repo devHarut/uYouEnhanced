@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://archive.org/download/you-tube-19.06.2-u-you-3.0.3/YouTube_19.06.2_uYou_3.0.3.ipa"
         default: ""
         required: true
         type: string
