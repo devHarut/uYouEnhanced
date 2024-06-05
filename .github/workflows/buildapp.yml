@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://archive.org/download/you-tube-19.06.2-u-you-3.0.3/YouTube_19.06.2_uYou_3.0.3.ipa"
+        description: "https://download1478.mediafire.com/7qswb6fhy9kgyu5X0x_pPQgImwAoBBwBPdkIr_hrdJCiBWVR-NSpueZ-YOCWt3KU0leyvKXyppfrYHk7cjiHO-YDB4schbCl1PDzMq8r2ZPXzc4QOQkfu5fw9k1etY-jwh_jRAcuPNJM_CEuRFr7vhjL-27T6PsOxREFqFND-Q/tvqjrp6mx9q45z6/YouTube_19.06.2_uYou_3.0.3.ipa"
         default: ""
         required: true
         type: string
